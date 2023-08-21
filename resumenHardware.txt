@@ -1,0 +1,11 @@
+1. Memoria RAM (Random Access Memory): Es la memoria temporal de alta velocidad que se utiliza 
+para almacenar los datos y programas en uso actualmente. Permite un acceso rápido 
+para el procesador y afecta directamente el rendimiento del sistema.
+
+2. Memoria Cache: La memoria cache es una memoria de acceso rápido que almacena datos y/o instrucciones
+ utilizados con frecuencia por el procesador. Hay varios niveles de cache (L1, L2, L3) 
+ en función de su proximidad al procesador y su capacidad.
+
+3. Memoria ROM (Read-Only Memory): Es una memoria no volátil que contiene instrucciones de inicio y firmware del sistema. 
+Su contenido no se borra cuando la computadora se apaga y es esencial para arrancar 
+el sistema operativo y realizar funciones básicas.
